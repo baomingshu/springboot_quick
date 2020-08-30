@@ -11,7 +11,7 @@ public class QuickController {
 	@ResponseBody
 	public String quick(){
 	
-		return"hello springboot";
+		return"hello1 springboot";
 	}
 	
 }
